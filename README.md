@@ -5,10 +5,8 @@
 - 작심삼일만 넘기자.
 
 
-**깃허브 참고할 분들**
-https://github.com/sang-w0o
-https://github.com/wjdrbs96
-
+> [!note] 
+> [[알고리즘]](https://www.hello-algo.com/en/) 참고
 
 
 
