@@ -6,9 +6,10 @@
 
 
 > [!note] 
-> [[알고리즘]](https://www.hello-algo.com/en/) 참고
-> [[생활코딩]](https://www.youtube.com/@coohde) 참고
-> [[조코딩]](https://www.youtube.com/@jocoding) 참고
+> 자료구조 & 알고리즘 - [[알고리즘]](https://www.hello-algo.com/en/) 참고   
+> Youtube - [[생활코딩]](https://www.youtube.com/@coohde) 참고   
+> Youtube - [[조코딩]](https://www.youtube.com/@jocoding) 참고   
+> 프론트엔드 - [[MDN]](https://developer.mozilla.org/ko/docs/orphaned/Learn/Front-end_web_developer) 참고   
 
 
 
