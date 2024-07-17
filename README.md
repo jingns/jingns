@@ -7,7 +7,8 @@
 
 > [!note] 
 > [[알고리즘]](https://www.hello-algo.com/en/) 참고
-
+> [[생활코딩]](https://www.youtube.com/@coohde) 참고
+> [[조코딩]](https://www.youtube.com/@jocoding) 참고
 
 
 
