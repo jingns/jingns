@@ -9,8 +9,10 @@
 > 자료구조 & 알고리즘 - [[알고리즘]](https://www.hello-algo.com/en/) 참고   
 > Youtube - [[생활코딩]](https://www.youtube.com/@coohde) 참고   
 > Youtube - [[조코딩]](https://www.youtube.com/@jocoding) 참고   
-> 프론트엔드 - [[MDN]](https://developer.mozilla.org/ko/docs/orphaned/Learn/Front-end_web_developer) 참고
-> 프론트엔드 최신 동향 - [[javascriptweekly]](https://javascriptweekly.com/) / [[statuscode]](https://react.statuscode.com/)
+> 프론트엔드 - [[MDN]](https://developer.mozilla.org/ko/docs/orphaned/Learn/Front-end_web_developer) 참고   
+> 프론트엔드 최신 동향 - [[javascriptweekly]](https://javascriptweekly.com/) / [[statuscode]](https://react.statuscode.com/)   
+> HTML자료 w3schools - [[w3schools]](https://www.w3schools.com/html/default.asp)   
+> 온라인 웹 코딩 - [[CodePen]](https://codepen.io/)
 
 
 
